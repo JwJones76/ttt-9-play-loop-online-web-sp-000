@@ -35,14 +35,13 @@ def turn(board)
   end
 end
 
-turns = 0 
+ 
 
-def play(board)
-  turns += 1
-  until turns == 9
+def play(board, turn)
+  while valid_move?
   turn(board)
 end 
-end 
+
 
   
 
