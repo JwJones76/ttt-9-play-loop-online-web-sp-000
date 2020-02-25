@@ -38,8 +38,8 @@ end
 turn(board) = 0
 
 def play(board)
-  turn(board) += 1
 end 
+ 
 
  
  
