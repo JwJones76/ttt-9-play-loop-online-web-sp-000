@@ -11,7 +11,5 @@ puts "Please enter 1-9:"
 
 play(board)
 
-play = gets.strip
 
-display_board(board)
 
