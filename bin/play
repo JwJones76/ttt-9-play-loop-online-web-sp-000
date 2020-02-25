@@ -9,3 +9,5 @@ display_board(board)
 
 play = gets.strip
 
+display_board(board)
+
