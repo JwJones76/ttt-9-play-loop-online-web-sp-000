@@ -15,5 +15,3 @@ play = gets.strip
 
 display_board(board)
 
-turn(board)
-
