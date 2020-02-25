@@ -37,6 +37,9 @@ end
 
 def play(board)
   if valid_move? && position_taken?
-    turn
+    turn(board)
+  else
+    turn(board)
+    
     
 end 
