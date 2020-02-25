@@ -40,6 +40,7 @@ end
 def play(board, turn)
   while valid_move?
   turn(board)
+end
 end 
 
 
