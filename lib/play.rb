@@ -37,7 +37,7 @@ end
 
  
 
-def play(board, turn)
+def play(board)
   while valid_move?
   turn(board)
 end
