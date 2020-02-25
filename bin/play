@@ -9,7 +9,7 @@ display_board(board)
 
 puts "Please enter 1-9:"
 
-play(board,turn)
+play(board)
 
 play = gets.strip
 
